@@ -39,7 +39,7 @@ Greetings, I am Muhammad Abdul Rehman Khan, a passionate cybersecurity professio
 
 <br />
 
-<script src="https://tryhackme.com/badge/1427040"></script>
+<script src="https://tryhackme.com/badge/1427040">Try Hack Me </script>
 
 
 #
