@@ -44,7 +44,7 @@ Greetings, I am Muhammad Abdul Rehman Khan, a passionate cybersecurity professio
 
 ### 📊 Stats
 
-![TryHackMe stats]<script src="https://tryhackme.com/badge/1427040"></script>
+![TryHachMe stats](https://tryhackme.com/badge/1427040)
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)
 
