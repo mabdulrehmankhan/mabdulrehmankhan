@@ -1,12 +1,11 @@
 # 💀 MUHAMMAD ABDUL REHMAN KHAN 🛡️  
 
-**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" align="right" width="150"/>
+**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**
 
 Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented cybersecurity analyst specializing in SOC (Security Operations Center) operations, threat detection, incident response, and proactive defense strategies. With a strong foundation in Blue Team operations, I excel at leveraging cutting-edge tools and methodologies to identify vulnerabilities, mitigate risks, and secure digital ecosystems. My mission is to strengthen organizations' security postures through expertise, continuous learning, and innovation.  
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" align="right" width="150"/>
 
 ### 📈 Professional Summary  
 
@@ -66,6 +65,7 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ### 🔗 Connect with Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/abdulrehmankhan)  
 
 ---  
