@@ -25,17 +25,8 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ---
 
-<p align="left">
-   <a href="https://youtube.com">
-      <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-   </a>
-   <a href="https://github.com/mabdulrehmankhan">
-      <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mabdulrehmankhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/mabdulrehmankhan">
-      <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabdulrehmankhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com) 
 
 ---
 
@@ -80,7 +71,6 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com)  
+ 
 
 ---
