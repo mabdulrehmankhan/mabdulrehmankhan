@@ -14,7 +14,9 @@ Greetings, I am Muhammad Abdul Rehman Khan, a passionate cybersecurity professio
       <a href="#">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1427040" style='border:none;'>
+      
+   </iframe>
 ---
 
 ### 🧰 Languages and Tools
@@ -46,7 +48,7 @@ Greetings, I am Muhammad Abdul Rehman Khan, a passionate cybersecurity professio
 ### 📊 Stats
 
 ![TryHackMe Badge]
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1427040" style='border:none;'></iframe>
+
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)
 
