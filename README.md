@@ -58,8 +58,7 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)  ![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)  
 
 ---
 
@@ -69,9 +68,3 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/abdulrehmankhan)  
 
 ---  
-
-### 👨‍💻 About Me  
-
-```bash
-$ whoami
-Muhammad Abdul Rehman Khan
