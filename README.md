@@ -1,8 +1,6 @@
 # 💀 MUHAMMAD ABDUL REHMAN KHAN 🛡️  
 
-**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)
+**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" align="right" width="150"/>
 
