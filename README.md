@@ -1,14 +1,12 @@
-# 💀 MUHAMMAD ABDUL REHMAN KHAN 🛡️
+# 💀 MUHAMMAD ABDUL REHMAN KHAN 🛡️  
 
 **`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**  
 
-Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented cybersecurity analyst specializing in SOC (Security Operations Center) operations, threat detection, incident response, and proactive defense strategies. With a strong foundation in Blue Team operations, I excel at leveraging cutting-edge tools and methodologies to identify vulnerabilities, mitigate risks, and secure digital ecosystems. My mission is to strengthen organizations' security postures through expertise, continuous learning, and innovation.
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" align="right" width="150"/>  
+
+Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented cybersecurity analyst specializing in SOC (Security Operations Center) operations, threat detection, incident response, and proactive defense strategies. With a strong foundation in Blue Team operations, I excel at leveraging cutting-edge tools and methodologies to identify vulnerabilities, mitigate risks, and secure digital ecosystems. My mission is to strengthen organizations' security postures through expertise, continuous learning, and innovation.  
 
 ---
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/))
 
 ### 📈 Professional Summary  
 
@@ -61,12 +59,20 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)  ![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)  
 
 ---
 
 ### 🔗 Connect with Me  
 
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadabdulrehmankhanofficial/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/abdulrehmankhan)  
 
----
+---  
+
+### 👨‍💻 About Me  
+
+```bash
+$ whoami
+Muhammad Abdul Rehman Khan
