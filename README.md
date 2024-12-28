@@ -7,7 +7,7 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
 ---
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/abdulrehmankhan.png?update=2" alt="Your Image Badge" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com) 
 
 ### 📈 Professional Summary  
 
@@ -22,11 +22,6 @@ Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented 
   - Advanced Linux Administration (RHEL, Ubuntu, Kali Linux)  
   - Networking Fundamentals, Ethical Hacking, OSINT Analysis  
   - Scripting & Automation using Python and Bash  
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com) 
 
 ---
 
