@@ -1,59 +1,90 @@
-# 💀 MUHAMMAD ABDUL REHMAN KHAN
+# 🛡️ MUHAMMAD ABDUL REHMAN KHAN  
 
-**`CYBERSECURITY ANALYST`**
+**`CYBERSECURITY ANALYST | BLUE TEAM SPECIALIST | SECURITY RESEARCHER`**  
 
-Greetings, I am **Muhammad Abdul Rehman Khan**, a passionate cybersecurity professional committed to ensuring digital safety and resilience. With over a year of experience in the field, I have been actively engaged in fortifying online systems, refining my skills, and cultivating a robust online reputation. My objective extends beyond bolstering my expertise; I am dedicated to forging strong client partnerships founded on impeccable service and trust. I am resolute in my pursuit of continuous learning, delving into the latest security methodologies and technologies to become a proficient cybersecurity specialist. Driven by determination and faith (*InshAllah*), I aspire to attain the zenith of professional accomplishment in the foreseeable future.
+Greetings! I am **Muhammad Abdul Rehman Khan**, a dedicated and detail-oriented cybersecurity analyst specializing in SOC (Security Operations Center) operations, threat detection, incident response, and proactive defense strategies. With a strong foundation in Blue Team operations, I excel at leveraging cutting-edge tools and methodologies to identify vulnerabilities, mitigate risks, and secure digital ecosystems. My mission is to strengthen organizations' security postures through expertise, continuous learning, and innovation.
+
+---
+
+### 📈 Professional Summary  
+
+- **🔒 Security Expertise**: Proficient in threat hunting, vulnerability assessment, and SIEM management.  
+- **⚙️ Tools & Frameworks**: Experience with ELK Stack, Wazuh, Splunk, and NIST CSF.  
+- **📜 Certifications**:  
+  - ISO 27001 Lead Implementer & Auditor  
+  - Security Operations (SOC) 101 Certified  
+  - RHEL Intensive - Linux Administration & Networking  
+  - Vulnerability Assessment & Incident Response  
+- **🛠️ Technical Skills**:  
+  - Advanced Linux Administration (RHEL, Ubuntu, Kali Linux)  
+  - Networking Fundamentals, Ethical Hacking, OSINT Analysis  
+  - Scripting & Automation using Python and Bash  
 
 ---
 
 <p align="left">
-   <a href="#">
+   <a href="https://youtube.com">
       <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
    </a>
-   <a href="#">
-      <img alt="YouTube Views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-   </a>
-   <a href="#">
+   <a href="https://github.com/mabdulrehmankhan">
       <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mabdulrehmankhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <a href="#">
+   <a href="https://github.com/mabdulrehmankhan">
       <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabdulrehmankhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### ⚙️ Technical Proficiencies  
 
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-<img align="left" alt="Adobe XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+**Operating Systems**:  
+- Linux (RHEL, Ubuntu, Kali), Windows Server, macOS  
 
-<br clear="left" />
+**Security Tools**:  
+- ELK Stack (Elasticsearch, Logstash, Kibana)  
+- Wazuh, Splunk, Nmap, Wireshark, Metasploit  
 
----
+**Programming & Scripting**:  
+- Python, Bash, PowerShell  
 
-### 📊 Stats
+**Networking**:  
+- Packet Analysis, Firewall Management, VPN Configuration  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)
+**Cloud & Virtualization**:  
+- Docker, AWS, VMware, Hyper-V  
+
+**Frameworks & Standards**:  
+- NIST CSF, ISO 27001, OWASP, MITRE ATT&CK  
 
 ---
 
-### 👨‍💻 About Me
+### 🛡️ Achievements & Certifications  
+
+- **Security Operations (SOC) 101 Certified**  
+  - Focused on phishing analysis, incident response, threat detection, log analysis, and SIEM management.  
+- **ISO 27001 Lead Implementer & Auditor**  
+- **Vulnerability Assessment & Management**: Hands-on expertise in identifying and mitigating system vulnerabilities.  
+- **RHEL Administration**: Completed intensive Linux deep-dive courses with a focus on system security and network services.  
+
+---
+
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdulrehmankhan&show_icons=true&theme=gruvbox)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mabdulrehmankhan&theme=gruvbox&border_radius=4.5)  
+
+---
+
+### 🔗 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Badge-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com)  
+
+---
+
+### 👨‍💻 About Me  
 
 ```bash
-abdulrehman👨‍💻@hacker: ~$ whoami
+$ whoami
+Muhammad Abdul Rehman Khan
